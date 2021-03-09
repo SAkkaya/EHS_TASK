@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: de.ehs.runners.CukesRunner
 -------------------------------------------------------------------------------
-Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 20.274 s - in de.ehs.runners.CukesRunner
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 15.285 s - in de.ehs.runners.CukesRunner
