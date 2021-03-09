@@ -1,0 +1,307 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 152865000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I am landing on main page",
+            "match": {
+              "location": "de.ehs.step_definitions.products_Step_Defs.i_am_landing_on_main_page()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-03-09T09:45:33.675Z",
+        "before": [
+          {
+            "result": {
+              "duration": 3692860000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "de.ehs.step_definitions.Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 8,
+        "name": "As an administrator I want to see all the available products so that I can make fester decisions",
+        "description": "",
+        "id": "administrator-should-see-all-products;as-an-administrator-i-want-to-see-all-the-available-products-so-that-i-can-make-fester-decisions",
+        "after": [
+          {
+            "result": {
+              "duration": 323697000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "de.ehs.step_definitions.Hooks.tearDown(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 234229000,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I click List all Items button",
+            "match": {
+              "location": "de.ehs.step_definitions.products_Step_Defs.i_click_List_all_Items_button()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 44922000,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I should be able to see all available products",
+            "match": {
+              "location": "de.ehs.step_definitions.products_Step_Defs.i_should_be_able_to_see_all_available_products()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@regression"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 113997000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I am landing on main page",
+            "match": {
+              "location": "de.ehs.step_definitions.products_Step_Defs.i_am_landing_on_main_page()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-03-09T09:45:38.325Z",
+        "before": [
+          {
+            "result": {
+              "duration": 2169276000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "de.ehs.step_definitions.Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 13,
+        "name": "As an administrator I want to se detailed information about a specific product so that I know that the system is up to date.",
+        "description": "",
+        "id": "administrator-should-see-all-products;as-an-administrator-i-want-to-se-detailed-information-about-a-specific-product-so-that-i-know-that-the-system-is-up-to-date.",
+        "after": [
+          {
+            "result": {
+              "duration": 112564000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "de.ehs.step_definitions.Hooks.tearDown(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 196606000,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "I click List all Items button",
+            "match": {
+              "location": "de.ehs.step_definitions.products_Step_Defs.i_click_List_all_Items_button()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 2168785000,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "I click open button of any product",
+            "match": {
+              "location": "de.ehs.step_definitions.products_Step_Defs.i_click_open_button_of_any_product()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 134811000,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "I should be able to see detailed information",
+            "match": {
+              "location": "de.ehs.step_definitions.products_Step_Defs.i_should_be_able_to_see_detailed_information()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@regression"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 72165000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I am landing on main page",
+            "match": {
+              "location": "de.ehs.step_definitions.products_Step_Defs.i_am_landing_on_main_page()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-03-09T09:45:43.235Z",
+        "before": [
+          {
+            "result": {
+              "duration": 2131607000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "de.ehs.step_definitions.Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 18,
+        "name": "As an administrator I want to be able to search for a specific product so that I can get faster access to its product details.",
+        "description": "",
+        "id": "administrator-should-see-all-products;as-an-administrator-i-want-to-be-able-to-search-for-a-specific-product-so-that-i-can-get-faster-access-to-its-product-details.",
+        "after": [
+          {
+            "result": {
+              "duration": 122423000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "de.ehs.step_definitions.Hooks.tearDown(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 36077000,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "I am landing on main page",
+            "match": {
+              "location": "de.ehs.step_definitions.products_Step_Defs.i_am_landing_on_main_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 2193596000,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "I enter specific product information in the search box",
+            "match": {
+              "location": "de.ehs.step_definitions.products_Step_Defs.i_enter_specific_product_information_in_the_search_box()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 2101020000,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "I click find button",
+            "match": {
+              "location": "de.ehs.step_definitions.products_Step_Defs.i_click_find_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2032740000,
+              "status": "passed"
+            },
+            "line": 22,
+            "name": "I should be able to see detailed information of that product",
+            "match": {
+              "location": "de.ehs.step_definitions.products_Step_Defs.i_should_be_able_to_see_detailed_information_of_that_product()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@regression"
+          }
+        ]
+      }
+    ],
+    "name": "Administrator should see all products",
+    "description": "",
+    "id": "administrator-should-see-all-products",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/features/products.feature",
+    "tags": [
+      {
+        "name": "@regression",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  }
+]
